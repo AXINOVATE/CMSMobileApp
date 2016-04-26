@@ -124,5 +124,7 @@
   <platform name="ios">
     <allow-intent href="itms:*"/>
     <allow-intent href="itms-apps:*"/>
-  </platform>		
+  </platform>	
+ <platform name="winphone" >
+  </platform>  
 </widget>
