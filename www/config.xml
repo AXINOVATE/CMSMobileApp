@@ -1,6 +1,6 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.skilladda.app" version="1.0.0">
-  <name>Skill Adda</name>
-  <description>Game Based skill development.</description>
+  <name>Olam Mobile CMS</name>
+  <description>Olam Mobile CMS</description>
   <author href="http://skilladda.com" email="info@axinovate.com">Gautam Choudhury</author>
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
