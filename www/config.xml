@@ -113,11 +113,11 @@
 <splash src="portrait-xxhdpi.png" platform="android" qualifier="port-xxhdpi" />
 <splash src="res/screen/ios/landscape-xxhdpi.png" platform="android" qualifier="land-xxhdpi" />
 
-<splash src="splash/winphone/splash.jpg" platform="winphone" />
+<!--<splash src="splash/winphone/splash.jpg" platform="winphone" />
   
   <icon src="www/res/icon/webos/icon-64.png" gap:platform="webos"/>
   <icon src="www/res/icon/windows-phone/icon-48.png" gap:platform="winphone"/>
-  <icon src="www/res/icon/windows-phone/icon-173-tile.png" gap:platform="winphone" gap:role="background"/>
+  <icon src="www/res/icon/windows-phone/icon-173-tile.png" gap:platform="winphone" gap:role="background"/> -->
  
    <gap:config-file platform="ios" parent="CFBundleShortVersionString">
     <string>100</string>
