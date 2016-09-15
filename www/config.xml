@@ -1,10 +1,9 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.olam.cmsapp" version="1.0.4">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.olam.cmsapp" version="1.0.5">
   <name>Olam Mobile CMS</name>
   <description>Olam Mobile CMS</description>
   <author href="http://axinovate.com" email="info@axinovate.com">Gautam Choudhury</author>
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
-    <preference name="phonegap-version" value="3.5.0"/>
   <preference name="orientation" value="default"/>
   <preference name="target-device" value="universal"/>
   <preference name="fullscreen" value="true"/>
