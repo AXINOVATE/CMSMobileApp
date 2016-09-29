@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.olam.cmsapp" version="1.0.6" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>CMSPhoneGap</name>
+    <name>Olam Mobile CMS</name>
     <description>Olam Mobile CMS</description>
     <author email="info@axinovate.com" href="http://axinovate.com">Axinovate Team</author>
     <content src="index.html" />

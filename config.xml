@@ -1,5 +1,5 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.olam.cmsapp" version="1.0.6">
-  <name>CMSPhoneGap</name>
+  <name>Olam Mobile CMS</name>
   <description>Olam Mobile CMS</description>
   <author href="http://axinovate.com" email="info@axinovate.com">Axinovate Team</author>
   <content src="index.html"/>
