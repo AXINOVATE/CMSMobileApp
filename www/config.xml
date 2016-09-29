@@ -5,7 +5,6 @@
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
   <preference name="orientation" value="default"/>
-  <preference name="phonegap-version" value="cli-6.3.0" />
   <preference name="target-device" value="universal"/>
   <preference name="fullscreen" value="true"/>
   <preference name="webviewbounce" value="true"/>
@@ -19,7 +18,6 @@
   <preference name="disable-cursor" value="false"/>
   <preference name="android-minSdkVersion" value="7"/>
   <preference name="android-installLocation" value="auto"/>
-  <gap:plugin name="org.apache.cordova.battery-status"/>
   <gap:plugin name="org.apache.cordova.battery-status"/>
   <gap:plugin name="org.apache.cordova.camera"/>
   <gap:plugin name="org.apache.cordova.media-capture"/>
@@ -84,9 +82,9 @@
               <icon src="res/icon/ios/icon-50@2x.png" width="100" height="100" />
      </platform>
 
-     <splash src="Default.png"         gap:platform="ios"     width="320" height="480" />
-<splash src="Default@2x.png"      gap:platform="ios"     width="640" height="960" />
-<splash src="Default-568h@2x.png" gap:platform="ios"     width="640" height="1136" />
+     <splash src="res/screen/ios/Default.png"         gap:platform="ios"     width="320" height="480" />
+<splash src="res/screen/ios/Default@2x.png"      gap:platform="ios"     width="640" height="960" />
+<splash src="res/screen/ios/Default-568h@2x.png" gap:platform="ios"     width="640" height="1136" />
 
 
 <!-- iPhone 6 -->
