@@ -1,10 +1,10 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.olam.cmsapp" version="1.0.9">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.olam.cmsapp" version="1.0.10">
   <name>OLAM CMS App</name>
   <description>Olam Mobile CMS</description>
   <author href="http://axinovate.com" email="info@axinovate.com">Axinovate Team</author>
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
-  <preference name="phonegap-version" value="3.5.0"/>
+  <preference name='phonegap-version' value='cli-5.1.1' />
   <preference name="orientation" value="default"/>
   <preference name="target-device" value="universal"/>
   <preference name="fullscreen" value="true"/>
@@ -19,6 +19,7 @@
   <preference name="disable-cursor" value="false"/>
   <preference name="android-minSdkVersion" value="7"/>
   <preference name="android-installLocation" value="auto"/>
+  <gap:plugin name='org.crosswalk.engine' version='1.3.0' source='pgb' />
   <gap:plugin name="org.apache.cordova.battery-status"/>
   <gap:plugin name="org.apache.cordova.camera"/>
   <gap:plugin name="org.apache.cordova.media-capture"/>
