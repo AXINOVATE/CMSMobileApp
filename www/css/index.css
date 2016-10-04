@@ -173,3 +173,12 @@ h1 {
   height:100px;
   width:100px;
 }
+
+#logo-image1 {
+  top: 100px;
+  left: 240px;
+  z-index: 100;
+  height:100px;
+  width:100px;
+  margin-top:17%;
+}
